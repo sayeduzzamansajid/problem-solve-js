@@ -14,4 +14,4 @@ function findMax(arr) {
 }
 
 // Example
-console.log(findMax([5, 1, 9, 103]));
+console.log(findMax([5, 1, 9, 103,104]));

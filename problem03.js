@@ -2,7 +2,7 @@
 // Problem 3: Check for Palindrome
 // Write a function that checks if a string is a palindrome (reads the same forward and backward).
 
-const input = 'sajid'
+const input = 'mam'
 const array = [...input]
 const out = []
 // console.log(arr);

@@ -8,7 +8,7 @@ function capitalizes(string) {
     for (let i = 0; i < words.length; i++) {
         let x = [...str.split(" ")[i]]
         x = [x[0].toUpperCase(), ...x]
-        console.log(x);
+        // console.log(x);
         x.splice(1, 1)
         newStr.push(x.join("").toString())
 
