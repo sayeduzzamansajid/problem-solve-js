@@ -4,7 +4,7 @@
 const input = 'rakib'
 const array = [...input]
 const out = []
-console.log(array);
+// console.log(array);
 for (let i = 0; i < input.length; i++) {
     out[i] = input[input.length - 1 - i]
 }

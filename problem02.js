@@ -4,7 +4,7 @@
 const string = "programming";
 const str = string.toLocaleLowerCase()
 const arr = [...str];
-console.log(arr);
+// console.log(arr);
 let sum =0;
 for (let i = 0; i < arr.length; i++) {
 
